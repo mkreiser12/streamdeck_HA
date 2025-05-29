@@ -304,9 +304,8 @@ vacuum:
 fan:
   icon: mdi:fan
   states:
-    mowing:
+    on:
       color: '#00C9A7'
-    paused:
+    off:
       color: '#F9F871'
-    returning:
-      color: '#F9F871'
+
