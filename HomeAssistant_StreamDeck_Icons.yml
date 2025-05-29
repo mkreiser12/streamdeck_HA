@@ -301,8 +301,8 @@ vacuum:
     returning:
       color: '#F9F871'
 
-lawn_mower:
-  icon: mdi:robot-mower
+fan:
+  icon: mdi:fan
   states:
     mowing:
       color: '#00C9A7'
