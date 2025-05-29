@@ -305,7 +305,7 @@ fan:
   icon: mdi:fan
   states:
     on:
-      color: '#888888'
-    off:
       color: '#F9F871'
+    off:
+      color: '#888888'
 
